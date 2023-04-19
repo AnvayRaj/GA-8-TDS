@@ -2,7 +2,7 @@ import streamlit as st
 
 st.write(
 """
-Compare 3 Numbers
+Largest of 3 Numbers
 """
 )
 a = st.number_input("First Number")
