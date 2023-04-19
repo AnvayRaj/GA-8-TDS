@@ -1,3 +1,7 @@
 import streamlit as st
 
-st.write("Hello World")
+st.write(
+"""
+Compare 3 Numbers
+"""
+)
